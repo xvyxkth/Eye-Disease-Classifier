@@ -1,6 +1,6 @@
 ﻿# Eye-Disease-Classifier
 
-An Eye Disease Classifier that can identify and segregate medical eye scans having the following defects :- 
+An Eye Disease Classifier that uses a Convolutional Neural Network to identify and segregate medical eye scans having the following defects :- 
 1. Glaucoma
 2. Cataracts
 3. Diabetic Retinopathy.
